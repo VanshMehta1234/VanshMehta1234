@@ -38,16 +38,16 @@
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| 🎵 **Music Player Unwinded** | A React.js app for playlist creation and inline editing | [Frontend](https://github.com/VanshMehta1234/music-player) • [Live](https://yourlivefrontend.com) |
-| 🧳 **XploreXpert** | Travel itinerary planner with place search and downloadable planners | [GitHub](https://github.com/VanshMehta1234/xplorexpert) • [Live](https://xplorexpert.vercel.app) |
-| 🧠 **LearnAI** | AI-powered learning assistant with dynamic session handling | [Repo](https://github.com/VanshMehta1234/learnai) |
+| 🎵 **Music Player Unwinded** | A React.js app for playlist creation and inline editing | [Frontend](https://github.com/VanshMehta1234/music-player) 
+| 🧳 **XploreXpert** | Travel itinerary planner with place search and downloadable planners | [GitHub](https://github.com/VanshMehta1234/xplorexpert)
+| 🧠 **LearnAI** | AI-powered learning assistant with dynamic session handling
 
 ---
 
 ### 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vansh-mehta-976754237/)
-- 📬 Email: mehta4029@email.com *(replace with your actual email)*
+- 📬 Email: mehta4029@email.com
 
 ---
 
