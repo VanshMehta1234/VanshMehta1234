@@ -32,16 +32,23 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| 🚀 **Fitflex (SaaS Fitness Platform)** | Full-stack SaaS app with authentication, role-based dashboards, and membership system | [Live](https://fitflex-new.vercel.app/) • [GitHub](https://github.com/VanshMehta1234/Fitflex-New) |
-| 🍽️ **CafeVerse (Restaurant SaaS Platform)** | Online ordering system with cart, reservations, and admin-ready backend | [Live](https://cafe-website-weld.vercel.app) • [GitHub](https://github.com/VanshMehta1234/cafe-website) |
-| 🌐 **MetaQube (Interactive Web Platform)** | Modern web experience with 3D UI, animations, and Web3-ready architecture | [Live](https://ai-web3-blockchain.netlify.app/) • [GitHub](https://github.com/VanshMehta1234/MetaQube) |
-| 🏥 **Pharma Web Application (UI System)** | Industry-focused frontend application for pharma workflows, dashboards, and data visualization | [GitHub](https://github.com/VanshMehta1234/apicon_pharma) |
-| 💄 **Luxe Lash Studio Website** | Premium business website with modern UI, animations, and responsive design | [Live](https://luxe-lash-studio-website.vercel.app) • [GitHub](https://github.com/VanshMehta1234/luxe-lash-studio-website) |
-| 🧠 **LearnAI** | AI-powered learning assistant with dynamic session handling *(in progress)* | Coming Soon |
+| 🚀 **Fitflex (SaaS Fitness Platform)** | Authentication, role-based dashboards, membership system | [Live](https://fitflex-new.vercel.app/) • [GitHub](https://github.com/VanshMehta1234/Fitflex-New) |
+| 🍽️ **CafeVerse (Restaurant SaaS Platform)** | Ordering system, cart, reservations, backend integration | [Live](https://cafe-website-weld.vercel.app) • [GitHub](https://github.com/VanshMehta1234/cafe-website) |
+| 🌐 **MetaQube (Interactive Web Platform)** | 3D UI, animations, modern web experience | [Live](https://ai-web3-blockchain.netlify.app/) • [GitHub](https://github.com/VanshMehta1234/MetaQube) |
+
+---
+
+### 📦 More Projects
+
+| Project | Description | Links |
+|--------|-------------|-------|
+| 🏥 **Pharma Web Application** | Industry-focused UI system with dashboards and data visualization | [GitHub](https://github.com/VanshMehta1234/apicon_pharma) |
+| 💄 **Luxe Lash Studio Website** | Premium business website with modern UI and responsive design | [Live](https://luxe-lash-studio-website.vercel.app) • [GitHub](https://github.com/VanshMehta1234/luxe-lash-studio-website) |
+| 🧠 **LearnAI** | AI-powered learning assistant *(in progress)* | Coming Soon |
 
 ---
 
