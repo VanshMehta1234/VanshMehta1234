@@ -38,6 +38,7 @@
 
 | Project | Description | Links |
 |--------|-------------|-------|
+| 🎵 **Fitflex Gym Application** | A React.js app for gym | [Link](https://fitflex-new.vercel.app/) 
 | 🎵 **Music Player Unwinded** | A React.js app for playlist creation and inline editing | [Frontend](https://github.com/VanshMehta1234/music-player) 
 | 🧳 **XploreXpert** | Travel itinerary planner with place search and downloadable planners | [GitHub](https://github.com/VanshMehta1234/Final-ExploreXpert-FE)
 | 🧠 **LearnAI** | AI-powered learning assistant with dynamic session handling
