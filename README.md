@@ -1,15 +1,15 @@
 <h1 align="center">Hey there! 👋 I'm Vansh Mehta</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💡 AI Enthusiast | 🛠️ Problem Solver  
+  🚀 Full-Stack SaaS Developer | 🤖 AI Systems Builder  
 </p>
 
 ---
 
 ### 💬 About Me
-- 🎓 I'm a software developer with a passion for building real-world solutions.
-- 💡 Exploring AI & Web Technologies to solve practical problems.
-- 🌱 Always learning something new — currently diving deeper into system design and Firebase + Supabase integration.
+- 🚀 I build scalable SaaS applications and AI-powered systems for real-world use cases.
+- 🤖 Focused on AI chatbots, automation workflows, and full-stack platforms.
+- 🌱 Currently improving system design and building production-ready applications.
 
 ---
 
@@ -17,20 +17,18 @@
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Databases & Tools**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -38,10 +36,10 @@
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| 🎵 **Fitflex Gym Application** | A React.js app for gym | [Link](https://fitflex-new.vercel.app/) 
-| 🎵 **Music Player Unwinded** | A React.js app for playlist creation and inline editing | [Frontend](https://github.com/VanshMehta1234/music-player) 
-| 🧳 **XploreXpert** | Travel itinerary planner with place search and downloadable planners | [GitHub](https://github.com/VanshMehta1234/Final-ExploreXpert-FE)
-| 🧠 **LearnAI** | AI-powered learning assistant with dynamic session handling
+| 🚀 **Fitflex (SaaS Fitness Platform)** | Full-stack SaaS app with authentication, role-based dashboards, and membership system | [Live](https://fitflex-new.vercel.app/) • [GitHub](https://github.com/VanshMehta1234/Fitflex-New) |
+| 🎵 **Music Player Unwinded** | React app with playlist management and inline editing features | [GitHub](https://github.com/VanshMehta1234/music-player) |
+| 🧳 **XploreXpert** | Travel planner with itinerary generation and downloadable plans | [GitHub](https://github.com/VanshMehta1234/Final-ExploreXpert-FE) |
+| 🧠 **LearnAI** | AI-powered learning assistant with dynamic session handling *(in progress)* | Coming Soon |
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-<p align="center">🟢 Always building. Always improving.</p>
+<p align="center">⚡ Building scalable SaaS & AI products</p>
