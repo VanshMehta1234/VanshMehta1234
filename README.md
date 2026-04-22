@@ -7,8 +7,8 @@
 ---
 
 ### 💬 About Me
-- 🚀 I build scalable SaaS applications and AI-powered systems for real-world use cases.
-- 🤖 Focused on AI chatbots, automation workflows, and full-stack platforms.
+- 🚀 I build scalable SaaS applications and modern web platforms.
+- 🤖 Focused on AI chatbots, automation systems, and full-stack development.
 - 🌱 Currently improving system design and building production-ready applications.
 
 ---
@@ -37,8 +37,10 @@
 | Project | Description | Links |
 |--------|-------------|-------|
 | 🚀 **Fitflex (SaaS Fitness Platform)** | Full-stack SaaS app with authentication, role-based dashboards, and membership system | [Live](https://fitflex-new.vercel.app/) • [GitHub](https://github.com/VanshMehta1234/Fitflex-New) |
-| 🎵 **Music Player Unwinded** | React app with playlist management and inline editing features | [GitHub](https://github.com/VanshMehta1234/music-player) |
-| 🧳 **XploreXpert** | Travel planner with itinerary generation and downloadable plans | [GitHub](https://github.com/VanshMehta1234/Final-ExploreXpert-FE) |
+| 🍽️ **CafeVerse (Restaurant SaaS Platform)** | Online ordering system with cart, reservations, and admin-ready backend | [Live](https://cafe-website-weld.vercel.app) • [GitHub](https://github.com/VanshMehta1234/cafe-website) |
+| 🌐 **MetaQube (Interactive Web Platform)** | Modern web experience with 3D UI, animations, and Web3-ready architecture | [Live](https://ai-web3-blockchain.netlify.app/) • [GitHub](https://github.com/VanshMehta1234/MetaQube) |
+| 🏥 **Pharma Web Application (UI System)** | Industry-focused frontend application for pharma workflows, dashboards, and data visualization | [GitHub](https://github.com/VanshMehta1234/apicon_pharma) |
+| 💄 **Luxe Lash Studio Website** | Premium business website with modern UI, animations, and responsive design | [Live](https://luxe-lash-studio-website.vercel.app) • [GitHub](https://github.com/VanshMehta1234/luxe-lash-studio-website) |
 | 🧠 **LearnAI** | AI-powered learning assistant with dynamic session handling *(in progress)* | Coming Soon |
 
 ---
