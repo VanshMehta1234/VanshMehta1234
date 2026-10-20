@@ -1,91 +1,106 @@
 <div align="center">
 
-<p><strong>FULL-STACK ENGINEERING · APPLIED AI · AUTOMATION</strong></p>
-<h1>Hi, I'm Vansh Mehta.</h1>
-<h3>I turn complex workflows into useful software.</h3>
-<p>SaaS products, AI agents, customer portals, and integrations.<br />Built with care from the interface to the database.</p>
+<p><strong>BUILT BY VANSH · FULL-STACK & AI ENGINEERING</strong></p>
+<h1>Vansh Mehta</h1>
+<h3>SaaS products. AI agents. Reliable automation.</h3>
+<p>I help founders and small teams build, repair, and ship software—<br />from authentication and billing to AI workflows and business integrations.</p>
 
+<a href="https://www.builtbyvansh.com/"><img alt="Explore my portfolio" src="https://img.shields.io/badge/Portfolio-Built_by_Vansh-2563eb?style=for-the-badge" /></a>
 <a href="https://www.upwork.com/freelancers/~018dd592259df44baa"><img alt="Top Rated Plus on Upwork" src="https://img.shields.io/badge/Upwork-Top_Rated_Plus-14a800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vansh-mehta-976754237/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's_connect-2563eb?style=for-the-badge" /></a>
-<a href="mailto:mehta4029@gmail.com"><img alt="Email Vansh" src="https://img.shields.io/badge/Email-Get_in_touch-334155?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:founder@builtbyvansh.com"><img alt="Discuss your project" src="https://img.shields.io/badge/Email-Discuss_a_project-334155?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<p><a href="#selected-work">Selected work</a> &nbsp; / &nbsp; <a href="#my-toolkit">My toolkit</a> &nbsp; / &nbsp; <a href="#lets-build-something-useful">Work with me</a></p>
+<p><a href="#selected-work">Selected work</a> &nbsp; / &nbsp; <a href="#how-i-work">How I work</a> &nbsp; / &nbsp; <a href="#toolkit">Toolkit</a></p>
 
 </div>
 
 ---
 
-I help founders and growing teams build new products and improve existing applications. My work brings together **full-stack development, AI workflows, subscription billing, and API integrations**—with clear communication and maintainable handover.
+**Building something new?** SaaS MVPs, customer portals, AI features, and internal tools.  
+**Improving an existing product?** Stripe and authentication fixes, API integrations, production debugging, and ongoing feature delivery.
 
 ## Selected work
 
-A selection of AI applications, business platforms, and interactive products.
+Commercial product work first, with public case studies and product links. Some applications require a client account; case studies provide an accessible walkthrough.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>◈ MetaOps</h3>
-<p><strong>Advertising operations & automation</strong></p>
-<p>A control center for Meta ad accounts: campaign visibility, account health, synchronization controls, and operational history.</p>
-<p><code>React</code> <code>TypeScript</code> <code>API integration</code></p>
-<p>🔒 <a href="https://github.com/VanshMehta1234/Meta-Ads-Automation-FE">Frontend</a> · <a href="https://github.com/VanshMehta1234/Meta-Ads-Automation-BE">Backend</a></p>
+<h3>01 / Precision PCBs</h3>
+<p><strong>Customer portal & order automation</strong></p>
+<p>Account-scoped order records, workbook imports, schedule changes, and administrative workflows. DigiKey, QuickBooks, and email integrations connect the portal to daily operations.</p>
+<p><code>Next.js</code> <code>Supabase</code> <code>API integrations</code></p>
+<p><strong>My role:</strong> Full-stack & automation development.</p>
+<p><a href="https://www.builtbyvansh.com/project/customer-portal">Case study ↗</a> · <a href="https://customer-page-iota.vercel.app/">Product</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>✦ EduNova</h3>
-<p><strong>AI-assisted lesson creation</strong></p>
-<p>Generate, edit, organize, and share educational lessons. Includes rich content editing, public lesson discovery, and PDF export.</p>
-<p><code>React</code> <code>Django</code> <code>OpenAI</code></p>
-<p>↗ <a href="https://edu-nova-zeta.vercel.app/">Website</a> · <a href="https://github.com/VanshMehta1234/EduNova">Frontend</a> · <a href="https://github.com/VanshMehta1234/EduNova-BE">Backend</a></p>
+<h3>02 / MetaOps</h3>
+<p><strong>Campaign automation & monitoring</strong></p>
+<p>Structured campaign launches, validation, queued execution, account discovery, health monitoring, and actionable error history for Meta advertising operations.</p>
+<p><code>React</code> <code>Node.js</code> <code>Meta Graph API</code></p>
+<p><strong>My role:</strong> Full-stack automation development.</p>
+<p><a href="https://www.builtbyvansh.com/project/metaops">Case study ↗</a> · 🔒 <a href="https://github.com/VanshMehta1234/Meta-Ads-Automation-FE">Frontend</a> / <a href="https://github.com/VanshMehta1234/Meta-Ads-Automation-BE">Backend</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>◎ Cluefield</h3>
-<p><strong>Real-time multiplayer word game</strong></p>
-<p>A team game for 4–12 players with live rooms, role-specific board views, and database controls for concurrent moves.</p>
+<h3>03 / Smarter CPAs</h3>
+<p><strong>Production EdTech & subscriptions</strong></p>
+<p>Ongoing product development across learner analytics, content reporting, admin feedback tools, filters, exports, subscriptions, and browser testing.</p>
+<p><code>Next.js</code> <code>PostgreSQL</code> <code>Stripe</code></p>
+<p><strong>My role:</strong> Full-stack product development.</p>
+<p><a href="https://www.builtbyvansh.com/project/smarter-cpas">Case study ↗</a> · <a href="https://smartercpasreview.com/">Product</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / CPA Prep AI — The Lab</h3>
+<p><strong>Structured AI question generation</strong></p>
+<p>Blueprint-aligned CPA practice questions with structured LLM responses, multiple question formats, explanations, validation, and server-side API handling.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Anthropic</code></p>
+<p><strong>My role:</strong> AI feature development.</p>
+<p><a href="https://www.builtbyvansh.com/project/the-lab">Case study ↗</a> · <a href="https://mcqs.smartercpasreview.com/">Product</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>05 / Retell AI Workflows</h3>
+<p><strong>Voice agents & business actions</strong></p>
+<p>Structured conversation flows, knowledge-base ordering, validation, recovery routes, and API/n8n actions for voice-enabled business workflows.</p>
+<p><code>Retell AI</code> <code>n8n</code> <code>APIs</code></p>
+<p><strong>My role:</strong> Voice AI & automation development.</p>
+<p><a href="https://www.builtbyvansh.com/project/ai-voice-agent">Case study ↗</a> · <a href="https://ai-voice-agent-ezyk.vercel.app/dashboard">Application</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>06 / Cluefield</h3>
+<p><strong>Real-time multiplayer engineering</strong></p>
+<p>A word-association game for 4–12 players with live rooms, role-specific board views, and database controls that handle concurrent moves.</p>
 <p><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code></p>
-<p>↗ <a href="https://cluefield-live.vercel.app/">Play the game</a> · 🔒 <a href="https://github.com/VanshMehta1234/ClueField">Repository</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>↗ Customer Portal</h3>
-<p><strong>Business access & administration</strong></p>
-<p>A dedicated customer workspace with protected routes, admin/customer roles, account approval, and customer management foundations.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></p>
-<p>🔒 <a href="https://github.com/VanshMehta1234/Customer-portal">Repository</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>◉ CallAgent</h3>
-<p><strong>Voice AI & call workflows</strong></p>
-<p>A voice-agent application connecting a Next.js interface to Python call APIs, WebSockets, and speech and language-model components.</p>
-<p><code>Next.js</code> <code>Python</code> <code>WebSockets</code></p>
-<p>↗ <a href="https://github.com/VanshMehta1234/CallAgent-FE">Frontend</a> · <a href="https://github.com/VanshMehta1234/CallAgent-BE">Backend</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>◇ FitFlex</h3>
-<p><strong>Fitness & membership platform</strong></p>
-<p>A fitness application with authentication, role-based dashboards, protected routes, and membership interfaces. Public demo includes simulated subscription management.</p>
-<p><code>React</code> <code>TypeScript</code> <code>Supabase</code></p>
-<p>↗ <a href="https://fitflex-new.vercel.app/">Website</a> · <a href="https://github.com/VanshMehta1234/Fitflex-New">Repository</a></p>
+<p><strong>Focus:</strong> Realtime state & access control.</p>
+<p><a href="https://cluefield-live.vercel.app/">Play the game ↗</a> · 🔒 <a href="https://github.com/VanshMehta1234/ClueField">Repository</a></p>
 </td>
 </tr>
 </table>
 
-<sub>🔒 Private source: repository links require access. Contact me to discuss the work.</sub>
+<sub>🔒 Private repositories require existing access. Public case studies show the work without exposing client source code.</sub>
 
 <details>
-<summary><strong>More websites & interface work</strong></summary>
+<summary><strong>More AI, SaaS & interface work</strong></summary>
 
 | Project | Focus | Explore |
 | :--- | :--- | :--- |
-| **CafeVerse** | Restaurant ordering, cart & reservation interfaces | [Website](https://cafe-website-weld.vercel.app/) · [Code](https://github.com/VanshMehta1234/cafe-website) |
-| **MetaQube** | 3D interfaces & animation | [Website](https://ai-web3-blockchain.netlify.app/) · [Code](https://github.com/VanshMehta1234/MetaQube) |
-| **Luxe Lash Studio** | Responsive business website | [Website](https://luxe-lash-studio-website.vercel.app/) · [Code](https://github.com/VanshMehta1234/luxe-lash-studio-website) |
+| **EduNova** | AI lesson creation, editing, sharing & PDF export | [Website](https://edu-nova-zeta.vercel.app/) · [Frontend](https://github.com/VanshMehta1234/EduNova) · [Backend](https://github.com/VanshMehta1234/EduNova-BE) |
+| **CallAgent** | Voice-agent interface & Python call services | [Frontend](https://github.com/VanshMehta1234/CallAgent-FE) · [Backend](https://github.com/VanshMehta1234/CallAgent-BE) |
+| **FitFlex** | Fitness & membership interfaces; demo subscription management | [Website](https://fitflex-new.vercel.app/) · [Code](https://github.com/VanshMehta1234/Fitflex-New) |
+| **MetaQube** | Interactive Web3 & AI product | [Case study](https://www.builtbyvansh.com/project/metaqube) · [Code](https://github.com/VanshMehta1234/MetaQube) |
+| **Tracy Catering** | Business website refresh & inquiry experience | [Case study](https://www.builtbyvansh.com/project/tracy) |
 
 </details>
 
-## My toolkit
+## How I work
+
+- **Understand the system.** Review the product, codebase, and main technical risks before defining the first milestone.
+- **Deliver in clear steps.** Build focused features, communicate progress, and test the workflows that matter.
+- **Own the handover.** Support deployment, document the setup, and leave code the next developer can maintain.
+
+## Toolkit
 
 <p>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -97,14 +112,15 @@ A selection of AI applications, business platforms, and interactive products.
 <img alt="Stripe" src="https://img.shields.io/badge/Stripe-111827?style=flat-square&logo=stripe&logoColor=A78BFA" />
 </p>
 
-**Backend & APIs** &nbsp; Node.js · FastAPI · Django · REST · WebSockets  
-**AI & automation** &nbsp; OpenAI · LangChain · LangGraph · n8n  
-**Delivery** &nbsp; GitHub · Vercel · Google Cloud Run
+**Backend & APIs** &nbsp; Node.js · FastAPI · REST · Webhooks · WebSockets  
+**AI & automation** &nbsp; OpenAI · Anthropic · LangGraph · Retell AI · n8n  
+**Delivery** &nbsp; GitHub · Vercel · Docker · Google Cloud Run
 
 ---
 
 <div align="center">
-<h3 id="lets-build-something-useful">Let's build something useful.</h3>
-<p>Launching a SaaS product, adding AI, or connecting your business tools?<br />Tell me what you're building and where you need help.</p>
-<p><strong><a href="https://www.upwork.com/freelancers/~018dd592259df44baa">Hire me on Upwork ↗</a> &nbsp; · &nbsp; <a href="mailto:mehta4029@gmail.com">Start a conversation</a></strong></p>
+<h3>Have a product to build—or one that needs fixing?</h3>
+<p>Send me your product, requirements, or technical issue.<br />Let's define a practical first milestone.</p>
+<p><strong><a href="https://www.builtbyvansh.com/">Explore my portfolio ↗</a> &nbsp; · &nbsp; <a href="https://www.upwork.com/freelancers/~018dd592259df44baa">Hire me on Upwork</a> &nbsp; · &nbsp; <a href="mailto:founder@builtbyvansh.com">Email me</a></strong></p>
+<p><a href="https://www.linkedin.com/in/vansh-mehta-976754237/">Connect on LinkedIn</a></p>
 </div>
