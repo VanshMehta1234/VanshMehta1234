@@ -1,62 +1,72 @@
-<h1 align="center">Hey there! 👋 I'm Vansh Mehta</h1>
+# Vansh Mehta
 
-<p align="center">
-  🚀 Full-Stack SaaS Developer | 🤖 AI Systems Builder  
-</p>
+### Full-Stack AI & SaaS Developer
 
----
+I build and improve SaaS products, customer portals, AI applications, and business integrations for founders and growing teams.
 
-### 💬 About Me
-- 🚀 I build scalable SaaS applications and modern web platforms.
-- 🤖 Focused on AI chatbots, automation systems, and full-stack development.
-- 🌱 Currently improving system design and building production-ready applications.
+My work spans authentication, role-based dashboards, subscription billing, AI workflows, and API automation—from building a new product to taking ownership of an existing application.
 
----
+**Top Rated Plus on Upwork** · [Work with me](https://www.upwork.com/freelancers/~018dd592259df44baa?utm_campaign=LLM_chatgpt_MCP_freelancerprofile&utm_content=freelancerprofile&utm_medium=LLM&utm_source=chatgpt) · [LinkedIn](https://www.linkedin.com/in/vansh-mehta-976754237/) · [Email](mailto:mehta4029@gmail.com)
 
-### 🛠️ Tech Stack
+## What I can help you build
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- **SaaS applications:** customer portals, admin dashboards, authentication, and role-based access.
+- **AI features:** assistants, agents, document workflows, and integrations with language models.
+- **Payments and billing:** Stripe checkout, subscriptions, and webhook integrations.
+- **Business automation:** API integrations and workflows that connect your existing tools.
+- **Existing products:** debugging, feature development, deployment, and maintainable handover.
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+## Selected public projects
 
-**Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+### EduNova — AI-assisted lesson creation
 
----
+An educational platform for generating and managing lessons, with rich content editing, public sharing, filtering, and PDF export.
 
-### 🚀 Featured Projects
+**Stack:** React, TypeScript, Tailwind CSS, Django, OpenAI  
+[Frontend](https://github.com/VanshMehta1234/EduNova) · [Backend](https://github.com/VanshMehta1234/EduNova-BE)
 
-| Project | Description | Links |
-|--------|-------------|-------|
-| 🚀 **Fitflex (SaaS Fitness Platform)** | Authentication, role-based dashboards, membership system | [Live](https://fitflex-new.vercel.app/) • [GitHub](https://github.com/VanshMehta1234/Fitflex-New) |
-| 🍽️ **CafeVerse (Restaurant SaaS Platform)** | Ordering system, cart, reservations, backend integration | [Live](https://cafe-website-weld.vercel.app) • [GitHub](https://github.com/VanshMehta1234/cafe-website) |
-| 🌐 **MetaQube (Interactive Web Platform)** | 3D UI, animations, modern web experience | [Live](https://ai-web3-blockchain.netlify.app/) • [GitHub](https://github.com/VanshMehta1234/MetaQube) |
+### CallAgent — Voice-agent application
 
----
+A voice-agent project with a Next.js frontend and Python backend, including call APIs, WebSocket handling, and speech and language-model components.
 
-### 📦 More Projects
+**Stack:** Next.js, TypeScript, Python  
+[Frontend](https://github.com/VanshMehta1234/CallAgent-FE) · [Backend](https://github.com/VanshMehta1234/CallAgent-BE)
 
-| Project | Description | Links |
-|--------|-------------|-------|
-| 🏥 **Pharma Web Application** | Industry-focused UI system with dashboards and data visualization | [GitHub](https://github.com/VanshMehta1234/apicon_pharma) |
-| 💄 **Luxe Lash Studio Website** | Premium business website with modern UI and responsive design | [Live](https://luxe-lash-studio-website.vercel.app) • [GitHub](https://github.com/VanshMehta1234/luxe-lash-studio-website) |
-| 🧠 **LearnAI** | AI-powered learning assistant *(in progress)* | Coming Soon |
+### FitFlex — Fitness platform
 
----
+A fitness application with Supabase authentication, admin and user dashboards, protected routes, and membership features. The public version includes demo subscription-management behavior, documented in its Stripe testing guide.
 
-### 🌐 Let's Connect
+**Stack:** React, TypeScript, Supabase  
+[View application](https://fitflex-new.vercel.app/) · [Source](https://github.com/VanshMehta1234/Fitflex-New)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vansh-mehta-976754237/)
-- 📬 Email: mehta4029@gmail.com
+### CafeVerse — Restaurant web application
 
----
+A restaurant application showcasing ordering, cart, and reservation interfaces.
 
-<p align="center">⚡ Building scalable SaaS & AI products</p>
+**Stack:** TypeScript  
+[View application](https://cafe-website-weld.vercel.app/) · [Source](https://github.com/VanshMehta1234/cafe-website)
+
+### MetaQube — Interactive web experience
+
+An interactive website exploring 3D interfaces, animation, and modern web presentation.
+
+**Stack:** TypeScript  
+[View application](https://ai-web3-blockchain.netlify.app/) · [Source](https://github.com/VanshMehta1234/MetaQube)
+
+**More web work:** [Luxe Lash Studio](https://luxe-lash-studio-website.vercel.app/) · [Pharma web application](https://github.com/VanshMehta1234/apicon_pharma)
+
+## Tools I work with
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | Next.js, React, TypeScript, Tailwind CSS |
+| Backend | Node.js, Python, FastAPI |
+| Data | Supabase, PostgreSQL, MongoDB |
+| AI & automation | OpenAI API, LangChain, LangGraph, n8n |
+| Integrations & deployment | Stripe, REST APIs, Vercel, Google Cloud Run |
+
+## Let's work together
+
+Have a product to build, an integration to connect, or an application that needs attention? Send me your current product, requirements, or technical issue so we can define a practical first milestone.
+
+[Upwork](https://www.upwork.com/freelancers/~018dd592259df44baa?utm_campaign=LLM_chatgpt_MCP_freelancerprofile&utm_content=freelancerprofile&utm_medium=LLM&utm_source=chatgpt) · [LinkedIn](https://www.linkedin.com/in/vansh-mehta-976754237/) · [mehta4029@gmail.com](mailto:mehta4029@gmail.com)
