@@ -38,7 +38,7 @@ Commercial product work first, with public case studies and product links. Some 
 <p>Structured campaign launches, validation, queued execution, account discovery, health monitoring, and actionable error history for Meta advertising operations.</p>
 <p><code>React</code> <code>Node.js</code> <code>Meta Graph API</code></p>
 <p><strong>My role:</strong> Full-stack automation development.</p>
-<p><a href="https://www.builtbyvansh.com/project/metaops">Case study ↗</a> · 🔒 <a href="https://github.com/VanshMehta1234/Meta-Ads-Automation-FE">Frontend</a> / <a href="https://github.com/VanshMehta1234/Meta-Ads-Automation-BE">Backend</a></p>
+<p><a href="https://www.builtbyvansh.com/project/metaops">Case study ↗</a></p>
 </td>
 </tr>
 <tr>
