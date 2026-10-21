@@ -61,12 +61,13 @@ Commercial product work first, with public case studies and product links. Some 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>05 / Retell AI Workflows</h3>
-<p><strong>Voice agents & business actions</strong></p>
-<p>Structured conversation flows, knowledge-base ordering, validation, recovery routes, and API/n8n actions for voice-enabled business workflows.</p>
+<h3>05 / Retell AI Call Agent</h3>
+<p><strong>Structured voice workflows & calling operations</strong></p>
+<p>Structured conversation flows, knowledge-base ordering, validation, recovery routes, and API/n8n actions. The public walkthrough includes dashboard, lead, call-history, and campaign screens.</p>
 <p><code>Retell AI</code> <code>n8n</code> <code>APIs</code></p>
 <p><strong>My role:</strong> Voice AI & automation development.</p>
-<p><a href="https://www.builtbyvansh.com/project/ai-voice-agent">Case study ↗</a> · <a href="https://ai-voice-agent-ezyk.vercel.app/dashboard">Application</a></p>
+<p><a href="https://www.builtbyvansh.com/project/ai-voice-agent">Case study & five product screens ↗</a> · <a href="https://ai-voice-agent-ezyk.vercel.app/dashboard">Application (sign-in)</a></p>
+<p><a href="https://www.builtbyvansh.com/project/ai-voice-agent"><img src="https://www.builtbyvansh.com/assets/projects/VoiceAgent/voice_1.png" alt="Retell AI Call Agent dashboard from the public portfolio walkthrough" width="520" /></a></p>
 </td>
 <td width="50%" valign="top">
 <h3>06 / Cluefield</h3>
