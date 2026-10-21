@@ -67,7 +67,6 @@ Commercial product work first, with public case studies and product links. Some 
 <p><code>Retell AI</code> <code>n8n</code> <code>APIs</code></p>
 <p><strong>My role:</strong> Voice AI & automation development.</p>
 <p><a href="https://www.builtbyvansh.com/project/ai-voice-agent">Case study & five product screens ↗</a> · <a href="https://ai-voice-agent-ezyk.vercel.app/dashboard">Application (sign-in)</a></p>
-<p><a href="https://www.builtbyvansh.com/project/ai-voice-agent"><img src="https://www.builtbyvansh.com/assets/projects/VoiceAgent/voice_1.png" alt="Retell AI Call Agent dashboard from the public portfolio walkthrough" width="520" /></a></p>
 </td>
 <td width="50%" valign="top">
 <h3>06 / Cluefield</h3>
