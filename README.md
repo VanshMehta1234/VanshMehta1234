@@ -74,12 +74,12 @@ Commercial product work first, with public case studies and product links. Some 
 <p>A word-association game for 4–12 players with live rooms, role-specific board views, and database controls that handle concurrent moves.</p>
 <p><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code></p>
 <p><strong>Focus:</strong> Realtime state & access control.</p>
-<p><a href="https://cluefield-live.vercel.app/">Play the game ↗</a> · 🔒 <a href="https://github.com/VanshMehta1234/ClueField">Repository</a></p>
+<p><a href="https://cluefield-live.vercel.app/">Play the game ↗</a></p>
 </td>
 </tr>
 </table>
 
-<sub>🔒 Private repositories require existing access. Public case studies show the work without exposing client source code.</sub>
+<sub>Public case studies provide project context and product walkthroughs. Some live applications require an account.</sub>
 
 <details>
 <summary><strong>More AI, SaaS & interface work</strong></summary>
@@ -89,7 +89,7 @@ Commercial product work first, with public case studies and product links. Some 
 | **EduNova** | AI lesson creation, editing, sharing & PDF export | [Website](https://edu-nova-zeta.vercel.app/) · [Frontend](https://github.com/VanshMehta1234/EduNova) · [Backend](https://github.com/VanshMehta1234/EduNova-BE) |
 | **CallAgent** | Voice-agent interface & Python call services | [Frontend](https://github.com/VanshMehta1234/CallAgent-FE) · [Backend](https://github.com/VanshMehta1234/CallAgent-BE) |
 | **FitFlex** | Fitness & membership interfaces; demo subscription management | [Website](https://fitflex-new.vercel.app/) · [Code](https://github.com/VanshMehta1234/Fitflex-New) |
-| **MetaQube** | Interactive Web3 & AI product | [Case study](https://www.builtbyvansh.com/project/metaqube) · [Code](https://github.com/VanshMehta1234/MetaQube) |
+| **MetaQube** | Interactive website for a Web3 & AI agency | [Case study](https://www.builtbyvansh.com/project/metaqube) · [Code](https://github.com/VanshMehta1234/MetaQube) |
 | **Tracy Catering** | Business website refresh & inquiry experience | [Case study](https://www.builtbyvansh.com/project/tracy) |
 
 </details>
